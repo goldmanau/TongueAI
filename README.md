@@ -1,8 +1,10 @@
 # TongueAI - Visual Health Insights from the Tongue
+## Summary
 1. 🧠 Idea in a Nutshell
 
 TongueAI is an AI-powered diagnostic assistant that analyzes images of the human tongue to provide preliminary health insights based on Traditional Chinese Medicine (TCM). It aims to support early detection of potential health imbalances by identifying visual tongue features such as color, coating, shape, and texture.
 
+## Background
 2. 📚 Background
 
 In TCM, the tongue is considered a mirror of internal health. Practitioners assess tongue characteristics to infer issues related to digestion, circulation, and organ function. However, this practice is highly subjective and requires years of experience.
